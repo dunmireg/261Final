@@ -1,0 +1,18 @@
+ET1: C
+ET2: B
+ET3: C
+ET4: C
+ET5: A,C
+ET6: A,C
+ET7: B
+ET8: A,B,C
+ET9: C
+ET10: A, B, C
+ET11: B
+ET12: B,C
+ET13: B
+ET14: D
+ET15: A
+ET16: C
+ET17: B
+ET18: A
